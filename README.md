@@ -1,6 +1,9 @@
 # 🧮 Calculator
 ## A website for the daily mathematical calculation.
 
+# About Websites
+### The inputs can be provided by the mouse as well keyboard.
+
 # Algorithm Used
 - Infix Expression Evaluator.
 - Balanced paranthesis checker.
